@@ -11,6 +11,7 @@ The design choosen is a simple 8 to 1 Multiplexer. The RTL code can be viewed in
 The architecture consists of two agents. The write agent is active as it needs to drive data into the DUV while the read agent is passive as it only needs to monitor outputs from the DUV.
 
 ## Results
-After the testbench was printed the topology was printed to verify all the components were built properly. The obtained topology is shown below:
+After the testbench was printed the topology was printed to verify all the components were built properly. The obtained topology is shown below:<br>
 <img src="images/topology.png">
-![topology]("images/topology.png") 
+![]("images/topology.png") 
+ 
